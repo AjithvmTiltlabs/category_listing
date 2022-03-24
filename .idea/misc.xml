@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/AjithWorkSpace/Sample Category List/CategoryList/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/AjithWorkSpace/Sample Category List/sample_category_app-master/app/src/main/res/drawable/drawable_button_round_edge.xml" value="0.245" />
+        <entry key="..\:/AjithWorkSpace/Sample Category List/sample_category_app-master/app/src/main/res/drawable/drawable_edit_text_normal.xml" value="0.245" />
+        <entry key="..\:/AjithWorkSpace/Sample Category List/sample_category_app-master/app/src/main/res/layout/activity_category_detail.xml" value="0.30833333333333335" />
+        <entry key="..\:/AjithWorkSpace/Sample Category List/sample_category_app-master/app/src/main/res/layout/activity_category_details.xml" value="0.30833333333333335" />
+        <entry key="..\:/AjithWorkSpace/Sample Category List/sample_category_app-master/app/src/main/res/layout/activity_main.xml" value="0.30833333333333335" />
+        <entry key="..\:/AjithWorkSpace/Sample Category List/sample_category_app-master/app/src/main/res/layout/activity_splash_screen.xml" value="0.30833333333333335" />
+        <entry key="..\:/AjithWorkSpace/Sample Category List/sample_category_app-master/app/src/main/res/layout/category_item.xml" value="0.30833333333333335" />
       </map>
     </option>
   </component>
